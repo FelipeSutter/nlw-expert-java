@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>br.com.felipesutter</groupId>
 	<artifactId>certification_nlw</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>certification_nlw</name>
 	<description>Projeto em Java utilizado no NLW Expert</description>
 	<properties>
