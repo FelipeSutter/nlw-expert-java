@@ -34,7 +34,7 @@ public class QuestionEntity {
 
     @OneToMany
     @JoinColumn(name = "question_id")
-    private List<AlternativeEntity> alternativeEntity;
+    private List<AlternativeEntity> alternatives;
 
     @CreationTimestamp
     private LocalDateTime createdAt;
