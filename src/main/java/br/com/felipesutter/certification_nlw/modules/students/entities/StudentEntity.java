@@ -6,7 +6,7 @@ import java.util.UUID;
 
 import org.hibernate.annotations.CreationTimestamp;
 
-import com.fasterxml.jackson.annotation.JsonManagedReference;
+import com.fasterxml.jackson.annotation.JsonBackReference;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
@@ -34,7 +34,7 @@ public class StudentEntity {
     private String email;
 
     @OneToMany(mappedBy = "studentEntity")
-    @JsonManagedReference
+    @JsonBackReference
     private List<CertificationStudentEntity> certificationStudentEntity;
 
     @CreationTimestamp
