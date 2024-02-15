@@ -4,4 +4,4 @@
 
 # Sobre o projeto
 
-<p>O projeto consiste em um sistema de certificações, onde os alunos podem tirar certificações em certas tecnologias, além de ter uma sessão de perguntas e respostas. As top 10 pessoas com maiores notas aparecem no ranking.</p>
+<p>O projeto consiste em um sistema de certificações, onde os alunos podem tirar certificações em certas tecnologias, além de ter uma sessão de perguntas e respostas. As top 10 pessoas que mais acertaram perguntas aparecem no ranking.</p>
