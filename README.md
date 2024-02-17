@@ -5,3 +5,11 @@
 # Sobre o projeto
 
 <p>O projeto consiste em um sistema de certificações, onde os alunos podem tirar certificações em certas tecnologias, além de ter uma sessão de perguntas e respostas. As top 10 pessoas que mais acertaram perguntas aparecem no ranking.</p>
+
+# Tecnologias Utilizadas
+
+<ul>
+  <li>Java 17</li>
+  <li>Spring Boot</li>
+  <li>Docker</li>
+</ul>
