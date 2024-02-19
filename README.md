@@ -32,6 +32,12 @@
 
 ```seed``` configuração para executar um sql de criação do banco e também de inserção de dados.
 
+```certifications``` pasta com as configurações das certificações que existem dentro do sistema.
+
+```questions``` as questões e respostas que o sistema comporta
+
+```students``` os estudantes que tiram suas ```certifications``` e respondem as ```questions```
+
 # Tecnologias Utilizadas
 
 <ul>
