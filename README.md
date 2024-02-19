@@ -40,6 +40,8 @@
 
 ```controllers``` a camada de controle de cada uma das entidades descritas acima. Ela serve para enviar e receber requisições HTTP, além de outras configurações
 
+```dto``` são objetos, parecidos com as entidades, mas que servem para manipular somente alguns dados da entidade, e normalmente são utilizados no ```body``` da requisição como request/response
+
 # Tecnologias Utilizadas
 
 <ul>
