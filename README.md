@@ -42,6 +42,12 @@
 
 ```dto``` são objetos, parecidos com as entidades, mas que servem para manipular somente alguns dados da entidade, e normalmente são utilizados no ```body``` da requisição como request/response
 
+```entities``` as entidades da aplicação em si. Elas guardam as informações que serão criadas dentro do banco de dados e são fundamentais para o funcionamento do sistema.
+
+```repositories``` camada onde acontece a persistência dos dados recebidos no banco de dados.
+
+```useCases``` camada onde ficam registradas todas as regras de negócio da aplicação, e é também comumente nomeada como camada de serviço.
+
 # Tecnologias Utilizadas
 
 <ul>
