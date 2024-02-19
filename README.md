@@ -38,6 +38,8 @@
 
 ```students``` os estudantes que tiram suas ```certifications``` e respondem as ```questions```
 
+```controllers``` a camada de controle de cada uma das entidades descritas acima. Ela serve para enviar e receber requisições HTTP, além de outras configurações
+
 # Tecnologias Utilizadas
 
 <ul>
