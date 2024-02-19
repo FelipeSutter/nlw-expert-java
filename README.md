@@ -8,6 +8,26 @@
 
 # Estrutura de Pastas
 
+```
+├── modules/ 
+│   ├── certifications/
+|   |   ├── controllers/
+|   |   └── useCases/
+│   ├── questions/
+|   |   ├── controllers/
+|   |   ├── dto/
+|   |   ├── entities/
+|   |   └── repositories/
+│   ├── students/
+|   |   ├── controllers/
+|   |   ├── dto/
+|   |   ├── entities/
+|   |   ├── repositories/
+|   |   └── useCases/
+├── seed/
+│   └── CreateSeed.java
+```
+
 # Tecnologias Utilizadas
 
 <ul>
