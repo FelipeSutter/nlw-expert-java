@@ -28,6 +28,8 @@
 │   └── CreateSeed.java
 ```
 
+```modules``` aqui é onde fica tudo o que é necessário para rodar a aplicação, como as classes que criam as tabelas no banco de dados e outras configurações necessárias para rodar a aplicação.
+
 # Tecnologias Utilizadas
 
 <ul>
