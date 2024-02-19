@@ -30,6 +30,8 @@
 
 ```modules``` aqui é onde fica tudo o que é necessário para rodar a aplicação, como as classes que criam as tabelas no banco de dados e outras configurações necessárias para rodar a aplicação.
 
+```seed``` configuração para executar um sql de criação do banco e também de inserção de dados.
+
 # Tecnologias Utilizadas
 
 <ul>
