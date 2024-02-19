@@ -4,7 +4,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import br.com.felipesutter.certification_nlw.modules.students.dto.VerifyHasVerificationDTO;
-import br.com.felipesutter.certification_nlw.modules.students.repository.CertificationStudentRepository;
+import br.com.felipesutter.certification_nlw.modules.students.repositories.CertificationStudentRepository;
 
 @Service
 public class VerifyIfHasCertificationUseCase {

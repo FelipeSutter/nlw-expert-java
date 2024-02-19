@@ -1,4 +1,4 @@
-package br.com.felipesutter.certification_nlw.modules.students.repository;
+package br.com.felipesutter.certification_nlw.modules.students.repositories;
 
 import java.util.Optional;
 import java.util.UUID;

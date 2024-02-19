@@ -15,8 +15,8 @@ import br.com.felipesutter.certification_nlw.modules.students.dto.VerifyHasVerif
 import br.com.felipesutter.certification_nlw.modules.students.entities.AnswersCertificationEntity;
 import br.com.felipesutter.certification_nlw.modules.students.entities.CertificationStudentEntity;
 import br.com.felipesutter.certification_nlw.modules.students.entities.StudentEntity;
-import br.com.felipesutter.certification_nlw.modules.students.repository.CertificationStudentRepository;
-import br.com.felipesutter.certification_nlw.modules.students.repository.StudentRepository;
+import br.com.felipesutter.certification_nlw.modules.students.repositories.CertificationStudentRepository;
+import br.com.felipesutter.certification_nlw.modules.students.repositories.StudentRepository;
 
 @Service
 public class StudentCertificationAnswerUseCase {

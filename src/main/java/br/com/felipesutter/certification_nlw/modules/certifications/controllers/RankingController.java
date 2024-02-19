@@ -1,4 +1,4 @@
-package br.com.felipesutter.certification_nlw.modules.certifications.controller;
+package br.com.felipesutter.certification_nlw.modules.certifications.controllers;
 
 import java.util.List;
 

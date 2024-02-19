@@ -1,4 +1,4 @@
-package br.com.felipesutter.certification_nlw.modules.questions.controller;
+package br.com.felipesutter.certification_nlw.modules.questions.controllers;
 
 import java.util.List;
 import java.util.stream.Collectors;
